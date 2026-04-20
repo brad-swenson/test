@@ -1,0 +1,6 @@
+Stacked PR test.
+These lines should not show up in the second PR diff.
+
+//TODO add some text here in a stacked PR
+
+This is the end.
