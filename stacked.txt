@@ -12,6 +12,7 @@ This is the end.
 Filled in todo 1.
 
 // conflicting change mid stack
-//todo 2
+// comment
+Filled in todo 2.
 
 end.
