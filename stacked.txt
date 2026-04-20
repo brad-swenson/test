@@ -4,3 +4,12 @@ These lines should not show up in the second PR diff.
 Here is some text added in a later stacked PR.
 
 This is the end.
+
+## This is more content.
+
+// conflicting change
+//todo 1
+
+//todo 2
+
+end.
